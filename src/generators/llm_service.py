@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 
 class GroqLlmService(ILlmInterface):
     def __init__(self):
-        self.api_key = "Groq API Key"
+        self.api_key = os.environ.get("GROQ_API_KEY")
         self.client = Groq(api_key=self.api_key)
         self.model = "llama-3.3-70b-versatile"
         if not self.api_key:
