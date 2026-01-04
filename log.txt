@@ -1,0 +1,148 @@
+esmini GIT REV: v2.57.1-0-0bf9f41
+esmini GIT TAG: v2.57.1
+esmini GIT BRANCH: tags/v2.57.1^0
+esmini BUILD VERSION: 5894
+[] [info] Loaded config file: C:\tools\esmini-demo\config.yml (C:\tools\esmini-demo\bin\..\config.yml)
+[] [info] Loaded C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\ai_scenario.xosc
+[2025-12-31 14:42:01]
+[] [info] Player options: --osc C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\ai_scenario.xosc --camera_mode orbit --follow_object Ego --info_text 1 --logfile_path log.txt --log_level info --pause --text_scale 1.0 --traj_filter 0.1 
+[] [info] No fixed timestep specified - running in realtime speed
+[] [info] Generated seed 3198439375
+[] [info] Loading C:/Users/Dell/VENVs/neuro_symbolic_fuzzer/data/scenarios/ai_scenario.xosc (v1.3)
+[] [info] 0 variables
+[] [error] Unsupported geo reference attr: +no_defs
+[] [error] Unsupported object type: rail-pole - interpret as NONE
+[] [error] Unsupported object type: rail-pole - interpret as NONE
+[] [error] Unsupported object type: guide-post - interpret as NONE
+[] [error] Unsupported object type: guide-post - interpret as NONE
+[] [info] Loaded OpenDRIVE: C:/tools/esmini-demo/resources/xodr/e6mini.xodr
+[] [info] scene graph file search paths attempted for file top_view.osgb:
+[] [info]   C:/tools/esmini-demo/bin/esmini.exe\../resources/models\top_view.osgb
+[] [info]   top_view.osgb
+[] [info]   C:/tools/esmini-demo/bin/esmini.exe\../resources/models\top_view.osgb
+[] [info]   C:/Users/Dell/VENVs/neuro_symbolic_fuzzer/data/scenarios/./top_view.osgb
+[] [info]   C:/tools/esmini-demo/bin/esmini.exe\../resources/models\top_view.osgb
+[] [info]   C:\tools\esmini-demo\bin/../resources/models/./top_view.osgb
+[] [warn] scene graph file C:/tools/esmini-demo/bin/esmini.exe\../resources/models\top_view.osgb not located, using specified file path
+[] [info] Assigned 3D model C:/tools/esmini-demo/resources/models/car_white.osgb to vehicle Ego
+[] [info] Assigned 3D model C:/tools/esmini-demo/resources/models/car_red.osgb to vehicle Target
+[] [info] 0 parameters
+[0.000] [info] Window created at 60,60 with size 800,400
+[0.000] [info] Environment 3D model search paths attempted for file top_view.osgb:
+[0.000] [info]   C:/tools/esmini-demo/bin/esmini.exe\../resources/models\top_view.osgb
+[0.000] [info]   top_view.osgb
+[0.000] [warn] Environment 3D model C:/tools/esmini-demo/bin/esmini.exe\../resources/models\top_view.osgb not located, using specified file path
+[0.000] [info] Generating a simplistic 3D model of the road network
+[0.000] [warn] Object ../models/railing-pole.osgb missing length, set to bounding box length 0.10
+[0.000] [warn] Object ../models/railing-pole.osgb missing width, set to bounding box width 0.10
+[0.000] [warn] Object ../models/railing-pole.osgb missing height, set to bounding box height 1.00
+[0.000] [warn] Object ../models/railing-pole.osgb missing length, set to bounding box length 0.10
+[0.000] [warn] Object ../models/railing-pole.osgb missing width, set to bounding box width 0.10
+[0.000] [warn] Object ../models/railing-pole.osgb missing height, set to bounding box height 1.00
+[0.000] [warn] Object ../models/railing.osgb missing length, set to bounding box length 4.00
+[0.000] [warn] Object ../models/railing.osgb missing width, set to bounding box width 0.10
+[0.000] [warn] Object ../models/railing.osgb missing height, set to bounding box height 0.20
+[0.000] [warn] Object ../models/railing.osgb missing length, set to bounding box length 4.00
+[0.000] [warn] Object ../models/railing.osgb missing width, set to bounding box width 0.10
+[0.000] [warn] Object ../models/railing.osgb missing height, set to bounding box height 0.20
+[0.000] [warn] Object ../models/guide-post.osgb missing length, set to bounding box length 0.08
+[0.000] [warn] Object ../models/guide-post.osgb missing width, set to bounding box width 0.13
+[0.000] [warn] Object ../models/guide-post.osgb missing height, set to bounding box height 1.25
+[0.000] [warn] Object ../models/guide-post.osgb missing length, set to bounding box length 0.08
+[0.000] [warn] Object ../models/guide-post.osgb missing width, set to bounding box width 0.13
+[0.000] [warn] Object ../models/guide-post.osgb missing height, set to bounding box height 1.25
+[0.000] [info] Follow object 0
+[0.000] [info] Init Ego TeleportAction initState -> startTransition -> runningState
+[0.000] [info] Starting teleport Action
+[0.000] [info] Ego New position:
+[0.000] [info] Pos(4.60, 49.98, -0.04) Rot(1.57, 0.00, 0.00) roadId 0 laneId -2 s 50.00 offset 0.00 t -4.42
+[0.000] [info] Init Ego LongitudinalAction initState -> startTransition -> runningState
+[0.000] [info] Init Target TeleportAction initState -> startTransition -> runningState
+[0.000] [info] Starting teleport Action
+[0.000] [info] Target New position:
+[0.000] [info] Pos(8.14, 39.97, -0.03) Rot(1.57, 0.00, 0.00) roadId 0 laneId -3 s 40.00 offset 0.00 t -8.00
+[0.000] [info] Init Target LongitudinalAction initState -> startTransition -> runningState
+[0.000] [info] storyBoard initState -> startTransition -> runningState
+[0.000] [info] story_act_maneuvuergroup_Target_act_0_lane_change initState -> startTransition -> runningState
+[0.000] [info] act_maneuvuergroup_Target_act_0_lane_change initState -> initToStandbyTransition -> standbyState
+[0.000] [info] story_act_maneuvuergroup_Target_act_1_brake initState -> startTransition -> runningState
+[0.000] [info] act_maneuvuergroup_Target_act_1_brake initState -> initToStandbyTransition -> standbyState
+[0.000] [info] story_act_maneuvuergroup_Ego_act_2_brake initState -> startTransition -> runningState
+[0.000] [info] act_maneuvuergroup_Ego_act_2_brake initState -> initToStandbyTransition -> standbyState
+[0.000] [info] Init Ego TeleportAction runningState -> endTransition -> completeState
+[0.000] [info] Init Ego LongitudinalAction runningState -> endTransition -> completeState
+[0.000] [info] Init Target TeleportAction runningState -> endTransition -> completeState
+[0.000] [info] Init Target LongitudinalAction runningState -> endTransition -> completeState
+[0.024] [info] act_start: true, delay: 0.00, 0.0243 > 0.0000, edge: rising
+[0.024] [info] Trigger /------------------------------------------------
+[0.024] [info] Group 0:
+[0.024] [info] act_start: true
+[0.024] [info] Trigger  ------------------------------------------------/
+[0.024] [info] act_maneuvuergroup_Target_act_0_lane_change standbyState -> startTransition -> runningState
+[0.024] [info] maneuvuergroup_Target_act_0_lane_change initState -> startTransition -> runningState
+[0.024] [info] Target_act_0_lane_change initState -> startTransition -> runningState
+[0.024] [info] LCEvent initState -> initToStandbyTransition -> standbyState
+[0.024] [info] act_start: true, delay: 0.00, 0.0243 > 0.0000, edge: rising
+[0.024] [info] Trigger /------------------------------------------------
+[0.024] [info] Group 0:
+[0.024] [info] act_start: true
+[0.024] [info] Trigger  ------------------------------------------------/
+[0.024] [info] act_maneuvuergroup_Target_act_1_brake standbyState -> startTransition -> runningState
+[0.024] [info] maneuvuergroup_Target_act_1_brake initState -> startTransition -> runningState
+[0.024] [info] Target_act_1_brake initState -> startTransition -> runningState
+[0.024] [info] SpeedEvent initState -> initToStandbyTransition -> standbyState
+[0.024] [info] act_start: true, delay: 0.00, 0.0243 > 0.0000, edge: rising
+[0.024] [info] Trigger /------------------------------------------------
+[0.024] [info] Group 0:
+[0.024] [info] act_start: true
+[0.024] [info] Trigger  ------------------------------------------------/
+[0.024] [info] act_maneuvuergroup_Ego_act_2_brake standbyState -> startTransition -> runningState
+[0.024] [info] maneuvuergroup_Ego_act_2_brake initState -> startTransition -> runningState
+[0.024] [info] Ego_act_2_brake initState -> startTransition -> runningState
+[0.024] [info] SpeedEvent initState -> initToStandbyTransition -> standbyState
+[2.007] [info] LCTrig: true, delay: 0.00, 2.0067 > 2.0000, edge: rising
+[2.007] [info] Trigger /------------------------------------------------
+[2.007] [info] Group 0:
+[2.007] [info] LCTrig: true
+[2.007] [info] Trigger  ------------------------------------------------/
+[2.007] [info] LCEvent standbyState -> startTransition -> runningState
+[2.007] [info] LCAction initState -> startTransition -> runningState
+[3.502] [info] LCAction runningState -> endTransition -> completeState
+[3.502] [info] LCEvent complete after 1 execution
+[3.502] [info] LCEvent runningState -> endTransition -> completeState
+[3.502] [info] Target_act_0_lane_change runningState -> endTransition -> completeState
+[3.502] [info] maneuvuergroup_Target_act_0_lane_change complete after 1 execution
+[3.502] [info] maneuvuergroup_Target_act_0_lane_change runningState -> endTransition -> completeState
+[3.502] [info] act_maneuvuergroup_Target_act_0_lane_change runningState -> endTransition -> completeState
+[3.502] [info] story_act_maneuvuergroup_Target_act_0_lane_change runningState -> endTransition -> completeState
+[4.014] [info] SpeedTrig: true, delay: 0.00, 4.0135 > 4.0000, edge: rising
+[4.014] [info] Trigger /------------------------------------------------
+[4.014] [info] Group 0:
+[4.014] [info] SpeedTrig: true
+[4.014] [info] Trigger  ------------------------------------------------/
+[4.014] [info] SpeedEvent standbyState -> startTransition -> runningState
+[4.014] [info] SpeedAction initState -> startTransition -> runningState
+[5.019] [info] SpeedTrig: true, delay: 0.00, 5.0187 > 5.0000, edge: rising
+[5.019] [info] Trigger /------------------------------------------------
+[5.019] [info] Group 0:
+[5.019] [info] SpeedTrig: true
+[5.019] [info] Trigger  ------------------------------------------------/
+[5.019] [info] SpeedEvent standbyState -> startTransition -> runningState
+[5.019] [info] SpeedAction initState -> startTransition -> runningState
+[9.004] [info] SpeedAction runningState -> endTransition -> completeState
+[9.004] [info] SpeedEvent complete after 1 execution
+[9.004] [info] SpeedEvent runningState -> endTransition -> completeState
+[9.004] [info] Target_act_1_brake runningState -> endTransition -> completeState
+[9.004] [info] maneuvuergroup_Target_act_1_brake complete after 1 execution
+[9.004] [info] maneuvuergroup_Target_act_1_brake runningState -> endTransition -> completeState
+[9.004] [info] act_maneuvuergroup_Target_act_1_brake runningState -> endTransition -> completeState
+[9.004] [info] story_act_maneuvuergroup_Target_act_1_brake runningState -> endTransition -> completeState
+[10.004] [info] SpeedAction runningState -> endTransition -> completeState
+[10.004] [info] SpeedEvent complete after 1 execution
+[10.004] [info] SpeedEvent runningState -> endTransition -> completeState
+[10.004] [info] Ego_act_2_brake runningState -> endTransition -> completeState
+[10.004] [info] maneuvuergroup_Ego_act_2_brake complete after 1 execution
+[10.004] [info] maneuvuergroup_Ego_act_2_brake runningState -> endTransition -> completeState
+[10.004] [info] act_maneuvuergroup_Ego_act_2_brake runningState -> endTransition -> completeState
+[10.004] [info] story_act_maneuvuergroup_Ego_act_2_brake runningState -> endTransition -> completeState
+[48.085] [info] Closing

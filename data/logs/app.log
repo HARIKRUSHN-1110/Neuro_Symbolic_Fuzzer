@@ -1,0 +1,172 @@
+[2025-12-19 11:56:05] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-19 11:57:17] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-19 11:57:17] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-19 11:57:19] [INFO] [main:26] - Result: Collision=False, Min Dist=15.0m
+[2025-12-20 10:59:04] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 10:59:04] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 10:59:04] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 10:59:04] [ERROR] [main:28] - Simulation failed: 'Catalog' object has no attribute 'add_vehicle'
+[2025-12-20 11:00:06] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:00:06] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:00:06] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:00:06] [ERROR] [main:28] - Simulation failed: 'Catalog' object has no attribute 'add_vehicle'
+[2025-12-20 11:03:51] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:03:51] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:03:51] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:03:51] [ERROR] [main:28] - Simulation failed: module 'scenariogeneration.xosc' has no attribute 'Performance'
+[2025-12-20 11:20:36] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:20:36] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:20:36] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:20:36] [ERROR] [main:28] - Simulation failed: module 'scenariogeneration.xosc' has no attribute 'LaneChangeAction'
+[2025-12-20 11:26:46] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:26:46] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:26:46] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:26:46] [ERROR] [main:28] - Simulation failed: __init__() got an unexpected keyword argument 'target_lane_id'
+[2025-12-20 11:35:25] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:35:25] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:35:25] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:35:25] [ERROR] [main:28] - Simulation failed: __init__() got an unexpected keyword argument 'dynamics'
+[2025-12-20 11:36:22] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:36:22] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:36:22] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:36:22] [ERROR] [main:28] - Simulation failed: __init__() missing 3 required positional arguments: 'storyboard', 'roadnetwork', and 'catalog'
+[2025-12-20 11:37:43] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:37:43] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:37:43] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:37:43] [ERROR] [main:28] - Simulation failed: int() argument must be a string, a bytes-like object or a number, not 'list'
+[2025-12-20 11:39:45] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:39:45] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:39:45] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:39:45] [ERROR] [main:28] - Simulation failed: starttrigger is not a valid TriggerType
+[2025-12-20 11:40:51] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:40:51] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:40:51] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:40:51] [ERROR] [main:28] - Simulation failed: starttrigger is not a valid TriggerType
+[2025-12-20 11:44:06] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:44:06] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:44:06] [INFO] [esmini_runner:26] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:44:06] [INFO] [scenario_builder:105] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 11:44:06] [DEBUG] [esmini_runner:46] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 11:44:06] [INFO] [esmini_runner:55] - Esmini running... watch the popup window!
+[2025-12-20 11:44:21] [INFO] [esmini_runner:64] - CSV Log generated at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv
+[2025-12-20 11:44:21] [INFO] [main:26] - Result: Collision=False, Min Dist=0.0m
+[2025-12-20 11:46:23] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:46:23] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:46:23] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:46:23] [INFO] [scenario_builder:84] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 11:46:23] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 11:46:23] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 11:46:37] [INFO] [esmini_runner:78] - Parsed 598 frames of simulation data.
+[2025-12-20 11:46:37] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 11:46:45] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:46:45] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:46:45] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:46:45] [INFO] [scenario_builder:84] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 11:46:45] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 11:46:45] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 11:46:59] [INFO] [esmini_runner:78] - Parsed 589 frames of simulation data.
+[2025-12-20 11:46:59] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 11:47:04] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:47:04] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:47:04] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:47:04] [INFO] [scenario_builder:84] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 11:47:04] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 11:47:04] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 11:47:18] [INFO] [esmini_runner:78] - Parsed 576 frames of simulation data.
+[2025-12-20 11:47:18] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 11:49:06] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:49:06] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:49:06] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:49:06] [INFO] [scenario_builder:91] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 11:49:06] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 11:49:06] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 11:49:19] [INFO] [esmini_runner:78] - Parsed 555 frames of simulation data.
+[2025-12-20 11:49:19] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 11:50:37] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:50:37] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:50:37] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:50:37] [INFO] [scenario_builder:93] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 11:50:37] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 11:50:37] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 11:50:55] [INFO] [esmini_runner:78] - Parsed 900 frames of simulation data.
+[2025-12-20 11:50:55] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 11:52:55] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 11:52:55] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 11:52:55] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 11:52:55] [INFO] [scenario_builder:99] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 11:52:55] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 11:52:55] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 11:53:09] [INFO] [esmini_runner:78] - Parsed 597 frames of simulation data.
+[2025-12-20 11:53:09] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 12:00:02] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 12:00:02] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 12:00:02] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 12:00:02] [INFO] [scenario_builder:95] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 12:00:02] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 12:00:02] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 12:00:16] [INFO] [esmini_runner:78] - Parsed 595 frames of simulation data.
+[2025-12-20 12:00:16] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 12:03:16] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 12:03:16] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 12:03:16] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 12:03:16] [INFO] [scenario_builder:95] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 12:03:16] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 12:03:16] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 12:03:29] [INFO] [esmini_runner:78] - Parsed 586 frames of simulation data.
+[2025-12-20 12:03:29] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 12:03:56] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 12:03:56] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 12:03:56] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 12:03:56] [INFO] [scenario_builder:95] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 12:03:56] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 12:03:56] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 12:04:09] [INFO] [esmini_runner:78] - Parsed 588 frames of simulation data.
+[2025-12-20 12:04:09] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 12:04:32] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 12:04:32] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 12:04:32] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 12:04:32] [INFO] [scenario_builder:95] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 12:04:32] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 12:04:32] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 12:04:45] [INFO] [esmini_runner:78] - Parsed 603 frames of simulation data.
+[2025-12-20 12:04:45] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 12:05:06] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 12:05:06] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 12:05:06] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 12:05:06] [INFO] [scenario_builder:95] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 12:05:06] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 12:05:06] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 12:05:20] [INFO] [esmini_runner:78] - Parsed 598 frames of simulation data.
+[2025-12-20 12:05:20] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 12:05:37] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 12:05:37] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 12:05:37] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 12:05:37] [INFO] [scenario_builder:95] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 12:05:37] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 12:05:37] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 12:05:51] [INFO] [esmini_runner:78] - Parsed 602 frames of simulation data.
+[2025-12-20 12:05:51] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 12:06:14] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 12:06:14] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 12:06:14] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 12:06:14] [INFO] [scenario_builder:95] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 12:06:14] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 12:06:14] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 12:06:27] [INFO] [esmini_runner:78] - Parsed 599 frames of simulation data.
+[2025-12-20 12:06:27] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 12:07:18] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 12:07:18] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 12:07:18] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 12:07:18] [INFO] [scenario_builder:95] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 12:07:18] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 12:07:18] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 12:07:31] [INFO] [esmini_runner:78] - Parsed 547 frames of simulation data.
+[2025-12-20 12:07:31] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m
+[2025-12-20 12:10:23] [INFO] [logging_setup:52] - Logging initialized. Writing to: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\app.log
+[2025-12-20 12:10:23] [INFO] [main:10] - Initializing Neuro-Symbolic Fuzzer...
+[2025-12-20 12:10:23] [INFO] [esmini_runner:24] - Starting simulation workflow for: test_cut_in_001
+[2025-12-20 12:10:23] [INFO] [scenario_builder:95] - Generated XOSC file at: C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc
+[2025-12-20 12:10:23] [DEBUG] [esmini_runner:38] - Command: "C:/tools/esmini-demo/bin/esmini.exe" --window 60 60 800 400 --osc "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\scenarios\test_cut_in_001.xosc" --csv_logger "C:\Users\Dell\VENVs\neuro_symbolic_fuzzer\data\logs\test_cut_in_001.csv" --stop_time 8.0
+[2025-12-20 12:10:23] [INFO] [esmini_runner:47] - Esmini running...
+[2025-12-20 12:10:37] [INFO] [esmini_runner:78] - Parsed 601 frames of simulation data.
+[2025-12-20 12:10:37] [INFO] [main:26] - Result: Collision=False, Min Dist=10.5m

@@ -1,0 +1,15 @@
+pydantic
+pydantic_settings
+scenariogeneration  # The library to create OpenSCENARIO files
+aiofiles            # For async file handling
+langchain
+langchain-community 
+chromadb 
+sentence-transformers 
+pypdf 
+lxml
+subprocess
+asyncio
+fastapi
+groq
+uvicorn
