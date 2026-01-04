@@ -8,8 +8,6 @@ chromadb
 sentence-transformers 
 pypdf 
 lxml
-subprocess
-asyncio
 fastapi
 groq
 uvicorn
