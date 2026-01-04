@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-**AutoScenario AI** is a Neuro-Symbolic application designed to accelerate the validation process for Autonomous Advanced Driving Systems (ADAS).
+**AutoScenario AI** is a Neuro-Symbolic fuzzing application designed to accelerate the validation process for Autonomous Advanced Driving Systems (ADAS).
 
 Creating standard OpenSCENARIO (.xosc) files for simulation is traditionally a manual, error-prone, and time-intensive process requiring deep knowledge of XML schemas and coordinate systems. This project solves that problem by bridging the gap between natural language requirements and rigid engineering standards.
 
